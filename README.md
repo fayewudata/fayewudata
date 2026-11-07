@@ -7,7 +7,7 @@ Master of Public Policy (Data Analytics) candidate at the University of Chicago 
 | Project | Highlights | Tools |
 |---|---|---|
 | [Music-Streaming Retention & Churn Analysis](https://github.com/fayewudata/music-streaming-churn-analysis) | User-level metrics from 1.49M events, churn model (0.79 ROC-AUC), A/B test design | SQL, Python, scikit-learn |
-| [Recreational Marijuana Legalization and Crime in California] (https://github.com/fayewudata/marijuana-legalization-crime-california/tree/main) | Two-way fixed-effects difference-in-differences on a 5,678 city-year panel | R, Python, Stata |
+| [Recreational Marijuana Legalization and Crime in California](https://github.com/fayewudata/marijuana-legalization-crime-california/tree/main) | Two-way fixed-effects difference-in-differences on a 5,678 city-year panel | R, Python, Stata |
 
 ## Skills
 
